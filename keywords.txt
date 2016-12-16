@@ -1,0 +1,6 @@
+WBFlash	KEYWORD1
+eraseFlash	KEYWORD2
+writeFlash	KEYWORD2
+readFlash	KEYWORD2
+printMenu	KEYWORD2
+getState	KEYWORD2

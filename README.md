@@ -9,6 +9,17 @@ To download.
 * You may need to create the libraries subfolder if its your first library. 
 * Restart the IDE.
 
+You will also need AdaFruits TinyFlash Library
+* Library : https://github.com/adafruit/Adafruit_TinyFlash
+
+# Where to get one
+* ebay
+* AdaFruit
+* remove from old router, these are used in lots of devices.
+
+# Hardware
+I have an egale library which I will get up, as well as a simple break out board.
+
 #Example
 OneMegFlash.ino - is an example of using the WBFlash class.
 
